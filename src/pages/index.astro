@@ -33,23 +33,26 @@ const sortedPosts = allPosts.sort(
     <main class="py-12 lg:py-20">
       <article class="max-w-6xl mx-auto px-3">
         <div class="flex row justify-between">
-          <HomeHeader title={title} description={description} />
-          <ReactPlayer
-            client:load
-            width="360px"
-            height="260px"
-            url="https://soundcloud.com/principiano-camille-1/sets?show_user=false&show_artwork=false"
-          />
+          <div class="">
+            <HomeHeader title={title} description={description} />
+            <ReactPlayer
+              client:load
+              width="360px"
+              height="260px"
+              url="https://soundcloud.com/principiano-camille-1/sets?show_user=false&show_artwork=false"
+            />
+          </div>
+          <div class="p-6"></div>
+          <section class="" data-test="articles-section">
+            {
+              sortedPosts.map((p) => (
+                <div class="col-span-1">
+                  <Card post={p} />
+                </div>
+              ))
+            }
+          </section>
         </div>
-        <section class="gap-6 py-8" data-test="articles-section">
-          {
-            sortedPosts.map((p) => (
-              <div class="col-span-1">
-                <Card post={p} />
-              </div>
-            ))
-          }
-        </section>
       </article>
     </main>
 

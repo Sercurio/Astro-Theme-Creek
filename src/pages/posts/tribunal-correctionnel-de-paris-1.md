@@ -5,7 +5,7 @@ A la barre, Mahmadi, 19 ans, encourt une peine de détention pour tirs de mortie
 pubDate: "2023/08/24"
 slug: "tribunal-correctionnel-de-paris-1"
 description: "coucou"
-hero: "/images/tribunal-paris.png"
+hero: "/images/vinyles.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
