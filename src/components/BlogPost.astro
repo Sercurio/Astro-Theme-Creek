@@ -7,9 +7,10 @@ export interface Props {
   date: string;
   hero: string;
   youtube: string;
+  lead: string;
 }
 
-const { title, date, hero, youtube } = Astro.props;
+const { title, date, hero, youtube, lead } = Astro.props;
 ---
 
 <article class="max-w-5xl mx-auto px-3">
@@ -17,13 +18,13 @@ const { title, date, hero, youtube } = Astro.props;
     <h1>{title}</h1>
   </header>
 
-  <p class="max-w-3xl mx-auto content">Je suis un chapeau</p>
+  {lead && <p class="max-w-3xl mx-auto content pb-6 lg:pb-12">{lead}</p>}
 
   <!-- Image -->
   {
     hero && (
       <img
-        class="rounded-xl mx-auto max-w-sm"
+        class="rounded-xl mx-auto w-9/12"
         loading="lazy"
         src={hero}
         alt={title}
