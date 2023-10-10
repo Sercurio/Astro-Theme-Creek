@@ -3,14 +3,14 @@ title: "Place des Fêtes, une agora parisienne singulière"
 shortDescription: "Située à l’extrême est du XIXe arrondissement, cette place parisienne est l’un des derniers bastions cosmopolites de la capitale.
 Immenses tours sortant de terre, anneau circulaire rappelant un mini périph, urbanisme et rapports d’échelle hasardeux : sous le ciel hésitant de la fin août, la Place des Fêtes se dévoile."
 pubDate: "2023/08/30"
-slug: "tribunal-correctionnel-de-paris-1"
+slug: "new"
 description: "coucou"
-hero: "/images/tribunal-paris.png"
+hero: "/images/IMG-4300.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
-"Immenses tours sortant de terre, anneau circulaire rappelant un mini périph, urbanisme et rapports d’échelle hasardeux : sous le ciel hésitant de la fin août, la Place des Fêtes se dévoile.
+Immenses tours sortant de terre, anneau circulaire rappelant un mini périph, urbanisme et rapports d’échelle hasardeux : sous le ciel hésitant de la fin août, la Place des Fêtes se dévoile.
 Quartier où diversité sociale et éthnique font la fierté des habitants, l’ancien cœur du village de Belleville est un lieu ambivalent, singulier. 
 Ici, les bains douches cohabitent avec les enseignes bio. Loin de l'inéluctable gentrification rapide, on assiste plutôt à une timide reconquête urbaine. 
 Les échafaudages de travaux se multiplient et se mélangent aux tréteaux du mythique marché de la place.  
@@ -32,9 +32,7 @@ Nous revenons au centre de la place, où trône le cabanon CAPLA, emblème citoy
 Pensé comme un “petit équipement pop-up modulable” mis à disposition des riverains et des associations locales, il accueille de nombreuses animations favorisant le lien social : permanences psychologiques, soutien scolaire ou aide numérique, guignette festive.
 
 Nous terminons notre balade au son des roulis des trottinettes et des vélos. La dalle est un véritable ravissement pour les bambins ! 
-Il plane résolument comme un air de fin d’été sur la place des Fêtes."
-
-
+Il plane résolument comme un air de fin d’été sur la place des Fêtes.
 
 **Reportage réalisé par Camille Principiano**
 
