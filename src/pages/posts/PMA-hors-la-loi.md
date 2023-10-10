@@ -1,6 +1,7 @@
 ---
-title: ""
-shortDescription: ""
+title: "PMA Hors la Loi, journal intime d’un parcours d’une combattante"
+shortDescription: ""Le jour où j’ai voulu faire un enfant par PMA, j’ai découvert que je n’en avais pas le droit, alors j’ai décidé d’en faire un podcast."<br/> 
+C’est avec un titre accrocheur, “PMA hors la loi”, que la documentariste Adila Bennedjaï-Zou nous propose une enquête personnelle sur la procréation médicalement assistée en France."
 pubDate: "2023/08/27"
 slug: "PMA-hors-la-loi"
 description: "coucou"
@@ -8,7 +9,7 @@ hero: "/images/"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
-France Culture,<i>Les Pieds sur Terre<i>.<br/>
+France Culture,*Les Pieds sur Terre*.<br/>
 **Série documentaire d’Adila Bennedjaï-Zou**<br/>
 Réalisée par Emmanuel Geoffroy et Cécile Laffon.<br/> 
 6x 28 min. Sortie le 5 septembre 2018.<br/>
