@@ -61,5 +61,5 @@ Oui, rentrer dans l’imaginaire facétieux du célèbre illustrateur, c’est s
 
 **Camille Principiano**
 
-*Cette chronique a été initialement réalisée en direct sur Radio Prun’ le 3 décembre 2023 dans la série “La Promesse de l’Ouest”, à écouter dans sa version intégrale [Link text Here](https://link-url-here.org)ici.*
+*Cette chronique a été initialement réalisée en direct sur Radio Prun’ le 3 décembre 2023 dans la série “La Promesse de l’Ouest”, à écouter dans sa version intégrale [ici](https://wwww.soundcloud.com/principiano-camille-1/la-promesse-de-louest_e03_les-geants-de-nantes).*
 
