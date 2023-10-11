@@ -1,9 +1,9 @@
 ---
-title: "Nantes et ses géants urbains : l’esprit de la démesure"
+title: "Chronique : Nantes et ses géants urbains, l’esprit de la démesure"
 shortDescription: "Fraîchement débarquée à Nantes, je propose avec ma chronique “La Promesse de l'Ouest” de questionner ma nouvelle identité nantaise en prenant pour sujet un aspect de la ville qui m’émeut ou m’interpelle. Aujourd’hui, je m’intéresse aux géants de Nantes, qui colorent incongrûment l'espace urbain."
 lead : "Fraîchement débarquée à Nantes, je propose avec ma chronique “La Promesse de l'Ouest” de questionner ma nouvelle identité nantaise en prenant pour sujet un aspect de la ville qui m’émeut ou m’interpelle. Aujourd’hui, je m’intéresse aux géants de Nantes, qui colorent incongrûment l'espace urbain."
 categories: "CHRONIQUE URBAINE"
-pubDate: "2023/12/03"
+pubDate: "2022/12/03"
 slug: "new"
 description: "coucou"
 hero: "/images/IMG-2168.jpg"
