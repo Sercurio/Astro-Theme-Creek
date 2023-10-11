@@ -2,6 +2,7 @@
 title: "“PMA Hors la Loi”, journal intime d’un parcours d’une combattante"
 shortDescription: "“Le jour où j’ai voulu faire un enfant par PMA, j’ai découvert que je n’en avais pas le droit, alors j’ai décidé d’en faire un podcast.” 
 C’est avec un titre accrocheur, “PMA hors la loi”, que la documentariste Adila Bennedjaï-Zou nous propose une enquête personnelle sur la procréation médicalement assistée en France."
+categories: "CULTURE / PODCAST"
 pubDate: "2023/08/27"
 slug: "PMA-hors-la-loi"
 description: "coucou"

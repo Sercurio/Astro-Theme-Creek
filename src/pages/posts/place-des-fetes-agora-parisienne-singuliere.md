@@ -2,10 +2,8 @@
 title: "Place des Fêtes, une agora parisienne singulière"
 shortDescription: "Située à l’extrême est du XIXe arrondissement, cette place parisienne est l’un des derniers bastions cosmopolites de la capitale.
 Immenses tours sortant de terre, anneau circulaire rappelant un mini périph, urbanisme et rapports d’échelle hasardeux : sous le ciel hésitant de la fin août, la Place des Fêtes se dévoile."
-lead: "Eu sint minim sunt reprehenderit ut sit Lorem proident nostrud in minim sunt. Qui aliquip commodo velit qui esse. Deserunt eiusmod sint dolor do Lorem duis exercitation qui. Cillum aute ad voluptate ut reprehenderit sint ex consectetur sunt.
-
-Magna et minim ad magna qui magna excepteur laboris. Aliquip in officia anim nisi veniam labore nisi pariatur cupidatat. Lorem sit culpa laboris culpa laboris velit. Incididunt quis ea magna in incididunt et. Reprehenderit nisi pariatur do ut sunt."
-categories: "CHRONIQUE JUDICIAIRE / CHRONIQUE"
+lead: "Située à l’extrême est du XIXe arrondissement, cette place parisienne est l’un des derniers bastions cosmopolites de la capitale."
+categories: "REPORTAGE / VIE URBAINE"
 pubDate: "2023/08/30"
 slug: "new"
 description: "coucou"
@@ -30,7 +28,7 @@ Au détour de la rue Louise Thuliez, la carcasse calcinée de l’emblématique 
 Plus loin, au milieu du square Monseigneur-Maillet, on retrouve aussi des caddies, mais ceux-là débordent de bouquins. Sur des nattes colorées sont disposés des dizaines d’ouvrages jeunesse. Deux jeunes garçons coiffés d’une kippa sont confortablement assis sur de chaises de camping miniatures, plongés dans leur lecture. A côté, une petite princesse en robe rose déambule au milieu des bandes dessinées.<br/>
 Il s’agit de l’opération “Bibliothèque Hors les Murs”, organisée par la bibliothèque Dreyfus-Weill et la future médiathèque James Baldwin, qui sera inaugurée dans le quartier au printemps 2024 conjointement à la Maison des Réfugiés.<br/>
 Enfants et parents partagent “un moment de complicité”, selon Christine NGuyen-Fau, directrice de la bibliothèque Dreyfus-Weill.<br/>
-L'objectif : “sensibiliser à la lecture et attirer un autre public qui ne se déplace pas en médiathèque, soit parce qu’ils n’osent pas rentrer, soit parce qu’ils pensent que c’est payant, ou enfin que ce n’est pas pour eux”.
+L'objectif : *“sensibiliser à la lecture et attirer un autre public qui ne se déplace pas en médiathèque, soit parce qu’ils n’osent pas rentrer, soit parce qu’ils pensent que c’est payant, ou enfin que ce n’est pas pour eux”.*
 
 Nous revenons au centre de la place, où trône le cabanon CAPLA, emblème citoyen d’un quartier revendiquant sa mixité sociale.<br/>
 Pensé comme un “petit équipement pop-up modulable” mis à disposition des riverains et des associations locales, il accueille de nombreuses animations favorisant le lien social : permanences psychologiques, soutien scolaire ou aide numérique, guignette festive.
