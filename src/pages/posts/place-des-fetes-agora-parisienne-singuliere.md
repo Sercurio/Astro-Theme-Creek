@@ -2,8 +2,10 @@
 title: "Place des Fêtes, une agora parisienne singulière"
 shortDescription: "Située à l’extrême est du XIXe arrondissement, cette place parisienne est l’un des derniers bastions cosmopolites de la capitale.
 Immenses tours sortant de terre, anneau circulaire rappelant un mini périph, urbanisme et rapports d’échelle hasardeux : sous le ciel hésitant de la fin août, la Place des Fêtes se dévoile."
-lead: "Je suis un chapeau"
-categories: "CHRONIQUE JUDICIAIRE"
+lead: "Eu sint minim sunt reprehenderit ut sit Lorem proident nostrud in minim sunt. Qui aliquip commodo velit qui esse. Deserunt eiusmod sint dolor do Lorem duis exercitation qui. Cillum aute ad voluptate ut reprehenderit sint ex consectetur sunt.
+
+Magna et minim ad magna qui magna excepteur laboris. Aliquip in officia anim nisi veniam labore nisi pariatur cupidatat. Lorem sit culpa laboris culpa laboris velit. Incididunt quis ea magna in incididunt et. Reprehenderit nisi pariatur do ut sunt."
+categories: "CHRONIQUE JUDICIAIRE / CHRONIQUE"
 pubDate: "2023/08/30"
 slug: "new"
 description: "coucou"
