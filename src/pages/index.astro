@@ -11,8 +11,9 @@ interface MarkdownFrontmatter {
 }
 
 const title = "Camille Principiano";
-const description = "Journaliste radio, presse écrite et web. Basée à Nantes. Retrouvez ci-dessous mes reportages, chroniques, interviews et documentaires sonores.";
-const seoDescription = "Creek is a theme for Astro static site generator";
+const description =
+  "Journaliste radio, presse écrite et web. Basée à Nantes. Retrouvez ci-dessous mes reportages, chroniques, interviews et documentaires sonores.";
+const seoDescription = "Camille Principiano Blog";
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>("./posts/*.md");
 const sortedPosts = allPosts.sort(
@@ -22,7 +23,7 @@ const sortedPosts = allPosts.sort(
 );
 ---
 
-<html lang="en">
+<html lang="fr">
   <head>
     <BaseHead title={title} description={seoDescription} />
   </head>
@@ -35,11 +36,15 @@ const sortedPosts = allPosts.sort(
         <div class="flex row justify-between">
           <div class="">
             <HomeHeader title={title} description={description} />
+            <img
+              class="object-cover h-90 w-auto"
+              src="/images/camille-resized.jpg"
+            />
             <ReactPlayer
               client:load
               width="360px"
               height="512px"
-              url="https://soundcloud.com/principiano-camille-1/sets?show_user=false"
+              url="https://soundcloud.com/principiano-camille-1/sets?visual=false&show_user=false&show_artwork=false"
             />
           </div>
           <div class="p-6"></div>
@@ -58,7 +63,7 @@ const sortedPosts = allPosts.sort(
 
     <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
       <a href="/posts" class="mr-8" data-test="see-all-link">
-        See All<span class="squiggle">&rarr;</span>
+        Tout les articles<span class="squiggle">&rarr;</span>
       </a>
     </section>
 

@@ -1,7 +1,4 @@
 ---
-import Image from "astro/components/Image.astro";
-import EmailSignup from "./Subscribe/EmailSignup.astro";
-
 export interface Props {
   title: string;
   date: string;
@@ -18,7 +15,11 @@ const { title, date, hero, youtube, lead } = Astro.props;
     <h1>{title}</h1>
   </header>
 
-  {lead && <p class="font-bold max-w-3xl mx-auto content pb-6 lg:pb-12">{lead}</p>}
+  {
+    lead && (
+      <p class="font-bold max-w-3xl mx-auto content pb-6 lg:pb-12">{lead}</p>
+    )
+  }
 
   <!-- Image -->
   {
@@ -53,6 +54,4 @@ const { title, date, hero, youtube, lead } = Astro.props;
   <section class="max-w-3xl mx-auto py-6 lg:py-12 content text-justify">
     <slot />
   </section>
-
-  <EmailSignup />
 </article>
