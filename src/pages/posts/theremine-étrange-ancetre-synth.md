@@ -9,6 +9,7 @@ description: "coucou"
 hero: "/images/theremine.jpg"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
+draft: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6nelE4nieo?si=tUaIWF9MHiil3JTK&amp;start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
