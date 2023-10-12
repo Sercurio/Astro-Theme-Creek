@@ -8,7 +8,7 @@ categories: "SOCIETE / CHRONIQUE JUDICIAIRE"
 pubDate: "2023/08/24"
 slug: "tribunal-correctionnel-de-paris-1"
 description: "coucou"
-hero: "/images/tribunal-paris.png"
+hero: "/images/tribunal paris-resized.png"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---

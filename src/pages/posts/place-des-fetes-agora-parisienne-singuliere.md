@@ -30,6 +30,8 @@ Il s’agit de l’opération “Bibliothèque Hors les Murs”, organisée par 
 Enfants et parents partagent “un moment de complicité”, selon Christine NGuyen-Fau, directrice de la bibliothèque Dreyfus-Weill.<br/>
 L'objectif : *“sensibiliser à la lecture et attirer un autre public qui ne se déplace pas en médiathèque, soit parce qu’ils n’osent pas rentrer, soit parce qu’ils pensent que c’est payant, ou enfin que ce n’est pas pour eux”.*
 
+![photo1](/images/tribunal-paris.png)
+
 Nous revenons au centre de la place, où trône le cabanon CAPLA, emblème citoyen d’un quartier revendiquant sa mixité sociale.<br/>
 Pensé comme un “petit équipement pop-up modulable” mis à disposition des riverains et des associations locales, il accueille de nombreuses animations favorisant le lien social : permanences psychologiques, soutien scolaire ou aide numérique, guignette festive.
 

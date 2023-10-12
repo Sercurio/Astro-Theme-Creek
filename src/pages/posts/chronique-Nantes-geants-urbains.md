@@ -27,18 +27,14 @@ Ils semblent nous poser la question : et si tous ces êtres n’étaient pas tit
 Regarder ces vidéos de Royal de Luxe m’a donné des envies de gigantisme. Alors, j’ai décidé de me mettre dans la peau d’une géante qui débarquerait dans notre ville.<br/> 
 Voilà, je crois, à peu près ce qu’elle dirait:
 
-*"Je suis une géante. Trop grande, inadaptée, j’effraie les humains.*<br/> 
-*Je viens d’un pays lointain, mais j’avais envie de voir du paysage. Je suis arrivée depuis l’Atlantique à bord du Belem et j’ai débarqué à Nantes. On m’a parlé d’une cascade géante. Elle fait 25 mètres de haut. Je traverse la Loire en faisant attention de ne pas y tremper les pieds (je ne voudrais pas créer de raz de marée citadin).*<br/> 
+*"Je suis une géante. Trop grande, inadaptée, j’effraie les humains. Je viens d’un pays lointain, mais j’avais envie de voir du paysage. Je suis arrivée depuis l’Atlantique à bord du Belem et j’ai débarqué à Nantes. On m’a parlé d’une cascade géante. Elle fait 25 mètres de haut. Je traverse la Loire en faisant attention de ne pas y tremper les pieds (je ne voudrais pas créer de raz de marée citadin).*<br/> 
 
 *J’entre au Jardin extraordinaire qui s’érige au milieu de ce trou béant. Il pleut des trombes, c'est désert…*<br/>
 *Je me sens bien ici. Je m'accroupis pour mieux profiter du paysage luxuriant. Je caresse les plantes… elles ont la taille de ma main ! C’est bien la première fois que je vois ça !* 
 *Je lis : Hostas à feuilles géantes, gunnera du Brésil.*<br/> 
-*Je salue la cascade et lui demande si elle ne s’ennuie pas tout seule ici.*<br/> 
-*“Non ! Regarde!” me dit-elle. “Ici, tous les éléments communiquent. Je puise ma source sous le sol de cette carrière. Les gouttelettes que je projette nourrissent les centaines d’espèces de végétaux présents dans ce jardin.*<br/>
-*La roche permet de retenir la chaleur du soleil et nous réchauffe le soir. Ici, tout est harmonie.”*
+*Je salue la cascade et lui demande si elle ne s’ennuie pas tout seule ici.“Non ! Regarde!” me dit-elle. “Ici, tous les éléments communiquent. Je puise ma source sous le sol de cette carrière. Les gouttelettes que je projette nourrissent les centaines d’espèces de végétaux présents dans ce jardin.La roche permet de retenir la chaleur du soleil et nous réchauffe le soir. Ici, tout est harmonie.”*
 
-*Je la remercie et je retraverse la Loire.*<br/>
-*Soudain, un chœur de voix m’interpelle. Ce sont 18 anneaux de métal disposés en rang d'oignon.*<br/>
+*Je la remercie et je retraverse la Loire. Soudain, un chœur de voix m’interpelle. Ce sont 18 anneaux de métal disposés en rang d'oignon.*<br/>
 *Ils me souhaitent la bienvenue le long du quai du Hangar à Bananes et m’expliquent que les anneaux symbolisent, entre autres, le passé escalavagiste de Nantes. Les 18 sœurs et frères sont fiers de faire briller en grand chaque nuit les couleurs du devoir de mémoire de la ville.*  
 
 **“Un jour, ils ont accroché à mon nez une petite sphère bleue"**
@@ -61,5 +57,5 @@ Oui, rentrer dans l’imaginaire facétieux du célèbre illustrateur, c’est s
 
 **Camille Principiano**
 
-*Cette chronique a été initialement réalisée en direct sur Radio Prun’ le 3 décembre 2023 dans la série “La Promesse de l’Ouest”, à écouter dans sa version intégrale [ici](https://wwww.soundcloud.com/principiano-camille-1/la-promesse-de-louest_e03_les-geants-de-nantes).*
+*Cette chronique a été initialement réalisée en direct sur Radio Prun’ le 3 décembre 2023 dans la série “La Promesse de l’Ouest”, à écouter dans sa version intégrale [ici](https://www.soundcloud.com/principiano-camille-1/la-promesse-de-louest_e03_les-geants-de-nantes).*
 
