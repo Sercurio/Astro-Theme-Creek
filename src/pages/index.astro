@@ -50,11 +50,14 @@ const sortedPosts = allPosts.sort(
           <div class="p-6"></div>
           <section class="" data-test="articles-section">
             {
-              sortedPosts.map((p) => (
-                <div class="col-span-1">
-                  <Card post={p} />
-                </div>
-              ))
+              sortedPosts.map(
+                (p) =>
+                  p.frontmatter.draft !== true && (
+                    <div class="col-span-1">
+                      <Card post={p} />
+                    </div>
+                  )
+              )
             }
           </section>
         </div>

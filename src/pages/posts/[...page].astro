@@ -39,11 +39,14 @@ let seoDescription = "";
         <HomeHeader title={pageTitle} description={pageDescription} />
         <section class="" data-test="articles-section">
           {
-            page.data.map((p) => (
-              <div class="col-span-1">
-                <Card post={p} />
-              </div>
-            ))
+            page.data.map(
+              (p) =>
+                p.frontmatter.draft !== true && (
+                  <div class="col-span-1">
+                    <Card post={p} />
+                  </div>
+                )
+            )
           }
         </section>
       </article>
