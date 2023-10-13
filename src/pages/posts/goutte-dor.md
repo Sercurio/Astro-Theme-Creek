@@ -10,6 +10,7 @@ hero: "/images/photo_1_goutte-dor2021_laurent-le_crabe_kazak-productions-1350x90
 heroDescription: "kikoo"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
+draft: true
 ---
 
 Qu’est ce qui fait de nous des hommes? Nos doutes, notre besoin de croire, nos paradoxes. 
