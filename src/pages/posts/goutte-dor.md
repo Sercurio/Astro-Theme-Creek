@@ -1,13 +1,13 @@
 ---
 title: "“Goutte d'or”, transe ethérée et magnétique de Clément Cogitore"
-shortDescription: "Rencontre avec."
-lead: "Rencontre avec."
+shortDescription:
+lead:
 categories: "CULTURE / CINEMA"
 pubDate: "2023/03/03"
 slug: "new"
 description: "coucou"
 hero: "/images/photo_1_goutte-dor2021_laurent-le_crabe_kazak-productions-1350x900.jpg"
-heroDescription: "kikoo"
+heroDescription: "(LAURENT LE CRABE / KAZAK / DIAPHANA)"
 tags: ["go"]
 layout: "../../layouts/BlogPostLayout.astro"
 draft: true
