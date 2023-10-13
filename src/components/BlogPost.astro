@@ -3,11 +3,12 @@ export interface Props {
   title: string;
   date: string;
   hero: string;
+  heroDescription: string;
   youtube: string;
   lead: string;
 }
 
-const { title, date, hero, youtube, lead } = Astro.props;
+const { title, date, hero, heroDescription, youtube, lead } = Astro.props;
 ---
 
 <article class="max-w-5xl mx-auto px-3">
@@ -30,6 +31,11 @@ const { title, date, hero, youtube, lead } = Astro.props;
         src={hero}
         alt={title}
       />
+    )
+  }
+  {
+    heroDescription && (
+      <p class="mx-auto w-9/12 text-slate-500 font-semibold">{heroDescription}</p>
     )
   }
 

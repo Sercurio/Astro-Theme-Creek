@@ -3,7 +3,7 @@ title: "Blues de rentrée et mélancolie canine"
 shortDescription: "L’espace canin du square Réjane, dans le XXe arrondissement, est l’un des rares endroits de Paris où l’on peut promener son toutou sans laisse. Mais en cette matinée grisonnante de la fin du mois d'août, peu sont présents au rendez-vous..."
 lead: "L’espace canin du square Réjane, dans le XXe arrondissement, est l’un des rares endroits de Paris où l’on peut promener son toutou sans laisse. Mais en cette matinée grisonnante de la fin du mois d'août, peu sont présents au rendez-vous..."
 categories: "SCENE DE VIE / REPORTAGE"
-pubDate: "2023/08/25"
+pubDate: "2023/08/23"
 slug: "new"
 description: "coucou"
 hero: "/images/Square_Réjane_-_Paris_XX_(FR75)_-_2021-10-18_-_1.jpg"
@@ -35,8 +35,7 @@ Le ciel s’alourdit, menaçant.<br/>
 Indifférente, une septuagénaire à la doudoune rose fait le tour du square en marche rapide, d’un pas décidé. Permanentée et maquillée, ses bras fendent l’air comme un automate. Elle parle toute seule. 
 
 A quelques mètres de là, le caniche désormais définitivement couché aux pieds de sa maîtresse observe le temps s’écouler.<br/>
-Philosophe ou résigné, c’est selon.<br/> 
-Enfin, le verdict tombe : la pluie est froide et peu clémente.<br/> 
+Philosophe ou résigné, c’est selon. Enfin, le verdict tombe : la pluie est froide et peu clémente.<br/> 
 A l'entrée du parc, le vendeur de nectarines observe le ciel, puis son caddie rouge. Il se demande ce qu’il fait encore là…
 
 **Reportage réalisé par Camille Principiano**

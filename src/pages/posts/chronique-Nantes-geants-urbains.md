@@ -3,7 +3,7 @@ title: "Chronique : Nantes et ses géants urbains, l’esprit de la démesure"
 shortDescription: "Fraîchement débarquée à Nantes, je propose avec ma chronique “La Promesse de l'Ouest” de questionner ma nouvelle identité nantaise en prenant pour sujet un aspect de la ville qui m’émeut ou m’interpelle. Aujourd’hui, je m’intéresse aux géants de Nantes, qui colorent incongrûment l'espace urbain."
 lead : "Fraîchement débarquée à Nantes, je propose avec ma chronique “La Promesse de l'Ouest” de questionner ma nouvelle identité nantaise en prenant pour sujet un aspect de la ville qui m’émeut ou m’interpelle. Aujourd’hui, je m’intéresse aux géants de Nantes, qui colorent incongrûment l'espace urbain."
 categories: "CHRONIQUE URBAINE"
-pubDate: "2022/12/03"
+pubDate: "2023/09/15"
 slug: "new"
 description: "coucou"
 hero: "/images/IMG-2168.jpg"
@@ -57,5 +57,5 @@ Oui, rentrer dans l’imaginaire facétieux du célèbre illustrateur, c’est s
 
 **Camille Principiano**
 
-*Cette chronique a été initialement réalisée en direct sur Radio Prun’ le 3 décembre 2023 dans la série “La Promesse de l’Ouest”, à écouter dans sa version intégrale [ici](https://www.soundcloud.com/principiano-camille-1/la-promesse-de-louest_e03_les-geants-de-nantes).*
+*Cette chronique a été initialement réalisée en direct sur Radio Prun’ le 3 décembre 2022 dans la série “La Promesse de l’Ouest”, à écouter dans sa version intégrale [ici](https://www.soundcloud.com/principiano-camille-1/la-promesse-de-louest_e03_les-geants-de-nantes).*
 
