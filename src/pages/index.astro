@@ -33,7 +33,7 @@ const sortedPosts = allPosts.sort(
 
     <main class="py-12 lg:py-20">
       <article class="max-w-6xl mx-auto px-3">
-        <div class="flex row justify-between">
+        <div class="md:flex md:row md:justify-between">
           <div class="">
             <HomeHeader title={title} description={description} />
             <img
@@ -42,7 +42,7 @@ const sortedPosts = allPosts.sort(
             />
             <ReactPlayer
               client:load
-              width="360px"
+              width="auto"
               height="512px"
               url="https://soundcloud.com/principiano-camille-1/sets?visual=false&show_user=false&show_artwork=false"
             />
