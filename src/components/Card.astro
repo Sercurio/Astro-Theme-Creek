@@ -14,7 +14,7 @@ const { post } = Astro.props;
   class="transition-all duration-75 ease-in-out h-full block relative top-0 hover:-top-2 shadow-lg hover:shadow-xl bg-white rounded-xl overflow-hidden"
   data-test="article-card"
 >
-  <div class="flex justify-between py-6 px-8">
+  <div class="md:flex md:justify-between md:py-6 md:px-8">
     <div class="pr-7">
       {
         post.frontmatter.categories && (
@@ -32,7 +32,7 @@ const { post } = Astro.props;
       </p>
     </div>
     <Image
-      class="w-56 h-auto"
+      class="md:w-56 h-auto mb-16"
       src={post.frontmatter.hero}
       alt={post.frontmatter.title}
       width={180}
