@@ -1,5 +1,5 @@
 ---
-title: Pick up
+title: Billboard TV Pick up x Les Anges
 description: 2 B R 0 2 B is a satiric short story that imagines life (and death) in a future world where aging has been "cured" and population control is mandated and administered by the government.
 audioUrl: audio/Pick_up.mp3
 date: Jan 15 2008
