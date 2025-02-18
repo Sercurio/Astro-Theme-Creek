@@ -10,4 +10,13 @@ export default defineConfig({
     // ...
     drafts: false, // defaults to false as well but can by controlled and set to true
   },
+  vite: {
+    css: {
+      preprocessorOptions: {
+        sass: {
+          api: "modern-compiler",
+        },
+      },
+    },
+  },
 });
