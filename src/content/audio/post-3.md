@@ -1,9 +1,9 @@
 ---
-title: Billboard TV Pick up x Les Anges
-description: 2 B R 0 2 B is a satiric short story that imagines life (and death) in a future world where aging has been "cured" and population control is mandated and administered by the government.
-audioUrl: audio/Pick_up.mp3
-date: Jan 15 2008
-duration: 22:20
-size: 20.5
-cover: https://ia804605.us.archive.org/25/items/2br02b_0801_librivox/2br02b_1003.jpg
+title: Spot Radio Partenariat France Bleu
+description: RIP Avicii. Your music is one of the main reasons that I fell in love with this genre. Thank you for everything you've done.
+audioUrl: audio/partenariat_radio_france_bleu.mp3
+date: Sep 08 2023
+duration: 3:40
+size: 3.37
+cover: cover-images/avicii.jpg
 ---
