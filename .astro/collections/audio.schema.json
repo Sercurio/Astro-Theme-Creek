@@ -1,0 +1,64 @@
+{
+  "$ref": "#/definitions/audio",
+  "definitions": {
+    "audio": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "audioUrl": {
+          "type": "string"
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "cover": {
+          "type": "string"
+        },
+        "audio": {
+          "type": "number"
+        },
+        "season": {
+          "type": "number"
+        },
+        "audioType": {
+          "type": "string"
+        },
+        "duration": {
+          "type": "string"
+        },
+        "size": {
+          "type": "number"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "audioUrl",
+        "date",
+        "size"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

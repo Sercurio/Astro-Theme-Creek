@@ -1,22 +1,11 @@
+// @ts-check
 import { defineConfig } from "astro/config";
-import sitemap from "@astrojs/sitemap";
-import react from "@astrojs/react";
+import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [sitemap(), react()],
-  site: "https://camilleprincipiano.netlify.app/",
-  markdown: {
-    // ...
-    drafts: false, // defaults to false as well but can by controlled and set to true
-  },
+  site: "https://camilleprincipiano.netlify.app",
   vite: {
-    css: {
-      preprocessorOptions: {
-        sass: {
-          api: "modern-compiler",
-        },
-      },
-    },
+    plugins: [tailwindcss()],
   },
 });

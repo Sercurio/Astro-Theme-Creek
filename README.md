@@ -1,26 +1,34 @@
-# Astro Creek - a blog theme for Astro
+# Astro Audionaut
 
-![](./public/images/creek.png)
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
-Creek is an open source blog theme for [Astro SSG](https://docs.astro.build/getting-started/).
+Astro Audionaut is an audio player built with [Astro](https://astro.build).
 
-## Demo
+## Installation
 
-[View Creek on Netlify](https://astro-theme-creek.netlify.app/)
+```bash
+git clone https://github.com/AREA44/astro-audionaut
+cd astro-audionaut
+pnpm install
+pnpm dev
+```
+
+Open your web browser and navigate to http://localhost:4321
+
+## Usage
+
+You have multiple options for hosting your audio files for Astro Audionaut:
+
+1. In your own codebase: You can host your audio files directly within the `public/audio` folder. Simply place your audio files in this folder and reference them within your code.
+
+2. Cloud storage solutions: You can also host your audio files using popular cloud storage solutions such as Dropbox, Google Drive, or Cloudinary. Simply upload your audio files to your chosen cloud storage platform and obtain a public URL for each audio file.
+
+Once you have hosted your audio files using any of the above methods, you need to specify the public URL of each audio file in the `audioUrl` field. This field allows Astro Audionaut to retrieve and play the audio file during the audio play.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-This theme is built upon a theme called [Starter's Creek](https://github.com/statamic/starter-kit-starters-creek) for [Statamic CMS](https://statamic.com/). Full design credit goes to [Jack McDade](https://twitter.com/jackmcdade).
-
-This theme also take's some ideas and functionality from [Ink](https://github.com/one-aalam/astro-ink), another great theme for Astro.
-
-## Features
-
-- Search powered by [Lunr.js](https://lunrjs.com/) and [Mark.js](https://markjs.io/)
-- Sitemap
-- RSS Feed
-- SEO ready. If you are looking for more SEO functionality, check out this [Astro SEO Plugin](https://github.com/jonasmerlin/astro-seo).
-
-## Misc.
-
-This theme used to power my personal site [HowToCode.io](https://howtocode.io), the repo of which can be found [here](https://github.com/robertguss/HowToCode-Astro)
+Astro Audionaunt is inspired by the [astropod](https://github.com/manuelernestog/astropod) project. Please consider starring the project, sharing it on social media.
